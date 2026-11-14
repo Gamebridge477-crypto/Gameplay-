@@ -1,0 +1,8 @@
+{
+  "name": "GameBridge",
+  "description": "Connecting Gamers. Building Opportunities. Powering African Esports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
